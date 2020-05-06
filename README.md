@@ -2,7 +2,7 @@
 1st Project
 
 
-## Portfolio Forcaster
+## Portfolio Forcaster (Name: WIP)
 #Interactive platform to allow portfolio building of stocks.
   #Define domain of possible inputs
   *user can select stocks available from API (ALPACA...)
