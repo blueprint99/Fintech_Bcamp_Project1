@@ -3,24 +3,24 @@
 
 
 ## Portfolio Forcaster (Name: WIP)
-#Interactive platform to allow portfolio building of stocks.
+# Interactive platform to allow portfolio building of stocks.
   #Define domain of possible inputs
-  *user can select stocks available from API (ALPACA...)
-  *user can choose (limit 5 stocks)
-  *user can determine weight of investments, needs to add up to 100%
-  *user can determine period of investments 
-  *?User can Identify lenght of historical data period to be used
+  * user can select stocks available from API (ALPACA...)
+  * user can choose (limit 5 stocks)
+  * user can determine weight of investments, needs to add up to 100%
+  * user can determine period of investments 
+  * ?User can Identify lenght of historical data period to be used
   
-#Datasources APIs
+# Datasources APIs
   ALPACA
   Data cleanup
 
-#Perform monte Carlo simulation based on user parameters
-    *identify key metrics
+# Perform monte Carlo simulation based on user parameters
+    * identify key metrics
       SD
       Sarpe Ratios...
 
-#Portfolio Analysis
-  *visualization of results
-  *Risk return analyis/ Portfolio optimization 
+# Portfolio Analysis
+  * visualization of results
+  * Risk return analyis/ Portfolio optimization 
   
