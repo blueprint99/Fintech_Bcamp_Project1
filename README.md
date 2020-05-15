@@ -1,6 +1,8 @@
 # Fintech_Bcamp_Project1
 1st Project
 
+![](https://raw.githubusercontent.com/MishraSubash/Working_Note-/master/Portfolio-Analysis-Overview2.png)
+
 
 ## Portfolio Forcaster (Name: WIP)
 # Interactive platform to allow portfolio building of stocks.
