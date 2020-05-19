@@ -12,7 +12,7 @@
   
   # Project Outline 
 # Introduction : 
-### As mention in the title, this project has two seperate but interliked analysis of protfolio constructions. 
+### As mention in the title, this project has two seperate but interlinked analysis of protfolio constructions. 
 ## A. Monte Carlo Simulation: 
 ### Monte Carlo simulation involves using random number generators to simulate random effects. Simulating a historical prices for many times allows us to measure the variation just as we would if we took many samples of a real event. In this project we are using 30 years historical data to anlaysis risk-return pattern of an user desired portfolio. 
 
